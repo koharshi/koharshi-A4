@@ -1,0 +1,9 @@
+{
+    "dinner": 
+      [
+          {"name": "Panera Bread","price": "28 $", "calories": "250"},
+          {"name": "Bred with chicken","price": "25 $", "calories": "220"},
+          {"name": "Rice And Chicken","price": "25 $", "calories": "280"}
+          
+    ]
+  }
